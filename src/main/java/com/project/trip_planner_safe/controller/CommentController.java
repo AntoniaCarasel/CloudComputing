@@ -23,6 +23,8 @@ public class CommentController {
         this.commentMapper = commentMapper;
     }
 
+//    I am just adding a comment here
+
     @PostMapping("/{idUser}")
     private CommentDTO saveComment(@Valid @RequestBody CommentDTO commentRequest, @PathVariable("idTrip") Long idTrip, @PathVariable("idUser") Long idUser){
         Comment commentHelp = commentMapper.dtoToEntity(commentRequest);
