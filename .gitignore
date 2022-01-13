@@ -14,7 +14,7 @@ target/
 .sts4-cache
 
 ### IntelliJ IDEA ###
-cloudprojectseminar/.idea
+cloudproiectautentificare/.idea
 *.iws
 *.iml
 *.ipr
