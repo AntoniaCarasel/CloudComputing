@@ -4,31 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72d9ab21-79d6-46a6-a460-7cce8b01a09d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="72d9ab21-79d6-46a6-a460-7cce8b01a09d" name="Changes" comment="Authentication">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cloudprojectseminar/AllRowMappers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cloudprojectseminar/CloudprojectseminarApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cloudprojectseminar/Repo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cloudprojectseminar/ServiceI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cloudprojectseminar/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cloudprojectseminar/UserCleanDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cloudprojectseminar/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cloudprojectseminar/UserDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cloudprojectseminar/UserMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cloudprojectseminar/UserNotFoundException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cloudprojectseminar/UserRepo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cloudprojectseminar/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/saveUser.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/cloudprojectseminar/CloudprojectseminarApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autentificare/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/cloudprojectseminar/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autentificare/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/cloudprojectseminar/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autentificare/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/cloudprojectseminar/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autentificare/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloudprojectseminar/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autentificare/src/main/java/com/example/cloudprojectseminar/AllRowMappers.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudprojectseminar/src/main/java/com/example/cloudprojectseminar/AllRowMappers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autentificare/src/main/java/com/example/cloudprojectseminar/CloudprojectseminarApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudprojectseminar/src/main/java/com/example/cloudprojectseminar/CloudprojectseminarApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autentificare/src/main/java/com/example/cloudprojectseminar/Repo.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudprojectseminar/src/main/java/com/example/cloudprojectseminar/Repo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autentificare/src/main/java/com/example/cloudprojectseminar/ServiceI.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudprojectseminar/src/main/java/com/example/cloudprojectseminar/ServiceI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autentificare/src/main/java/com/example/cloudprojectseminar/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudprojectseminar/src/main/java/com/example/cloudprojectseminar/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autentificare/src/main/java/com/example/cloudprojectseminar/UserCleanDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudprojectseminar/src/main/java/com/example/cloudprojectseminar/UserCleanDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autentificare/src/main/java/com/example/cloudprojectseminar/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudprojectseminar/src/main/java/com/example/cloudprojectseminar/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autentificare/src/main/java/com/example/cloudprojectseminar/UserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudprojectseminar/src/main/java/com/example/cloudprojectseminar/UserDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autentificare/src/main/java/com/example/cloudprojectseminar/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudprojectseminar/src/main/java/com/example/cloudprojectseminar/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autentificare/src/main/java/com/example/cloudprojectseminar/UserNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudprojectseminar/src/main/java/com/example/cloudprojectseminar/UserNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autentificare/src/main/java/com/example/cloudprojectseminar/UserRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudprojectseminar/src/main/java/com/example/cloudprojectseminar/UserRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autentificare/src/main/java/com/example/cloudprojectseminar/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudprojectseminar/src/main/java/com/example/cloudprojectseminar/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autentificare/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cloudprojectseminar/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autentificare/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/cloudprojectseminar/src/main/resources/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autentificare/src/main/resources/templates/saveUser.html" beforeDir="false" afterPath="$PROJECT_DIR$/cloudprojectseminar/src/main/resources/templates/saveUser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autentificare/src/test/java/com/example/cloudprojectseminar/CloudprojectseminarApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudprojectseminar/src/test/java/com/example/cloudprojectseminar/CloudprojectseminarApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,8 +71,9 @@
   </component>
   <component name="RunManager">
     <configuration name="CloudprojectseminarApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="cloudprojectseminar" />
+      <module name="CloudComputingProject" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.cloudprojectseminar.CloudprojectseminarApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -93,7 +91,16 @@
       <workItem from="1642085293416" duration="1341000" />
       <workItem from="1642087284116" duration="112000" />
       <workItem from="1642087701250" duration="24000" />
+      <workItem from="1642087796588" duration="368000" />
     </task>
+    <task id="LOCAL-00001" summary="Authentication">
+      <created>1642087891195</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642087891195</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,5 +119,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Authentication" />
+    <option name="LAST_COMMIT_MESSAGE" value="Authentication" />
   </component>
 </project>
